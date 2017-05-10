@@ -6,7 +6,7 @@ OBJECT_SHARED Models/Airport/marker.ac 42.05 45.098333 378.57 180
 OBJECT_SHARED Models/Airport/marker.ac 42.085 45.105 453.27 180
 OBJECT_SHARED Models/Airport/marker.ac 42.145 45.115 423.27 180
 OBJECT_SHARED Models/Airport/marker.ac 42.181667 45.121667 388.32 180
-OBJECT_SHARED Models/Airport/localizer.xml 42.086667 45.105 452.7 346.64
-OBJECT_SHARED Models/Airport/localizer.xml 42.143333 45.115 424.48 165.43
+OBJECT_SHARED Models/Airport/localizer.xml 42.086667 45.105 452.7 103.42
+OBJECT_SHARED Models/Airport/localizer.xml 42.143333 45.115 424.48 283.41
 OBJECT_SHARED Models/Airport/kdp_start.ac 42.09987662 45.1080697 449.33 194
 OBJECT_SHARED Models/Airport/kdp_start.ac 42.1172303 45.1114162 441.19 186
